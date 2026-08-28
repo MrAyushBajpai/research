@@ -1,0 +1,13 @@
+{
+  "qwen3.6-27b__commonsense__en_to_en": "DONE",
+  "qwen3.6-27b__commonsense__en_to_fi": "DONE",
+  "qwen3.6-27b__commonsense__fi_to_en": "DONE",
+  "qwen3.6-27b__commonsense__fi_to_fi": "DONE",
+  "qwen3.6-27b__commonsense__en_to_sw": "RUNNING",
+  "qwen3.6-27b__commonsense__sw_to_en": "FAILED:too_many_errors:10",
+  "qwen3.6-27b__commonsense__sw_to_sw": "FAILED:too_many_errors:10",
+  "qwen3.6-27b__commonsense__en_to_hi": "FAILED:too_many_errors:10",
+  "qwen3.6-27b__math__en_to_en": "FAILED:too_many_errors:10",
+  "qwen3.6-27b__math__en_to_fi": "FAILED:too_many_errors:10",
+  "qwen3.6-27b__math__en_to_sw": "FAILED:too_many_errors:10"
+}

@@ -1,0 +1,11 @@
+model,language,tokens,correct,truncated,Condition
+llama3.1-8b,en,256.95,0.934,0.002,Baseline (EN)
+llama3.3-70b,en,287.894,0.986,0.0,Baseline (EN)
+llama3.1-8b,fi,1240.75,0.718,0.188,English Prompt
+llama3.1-8b,sw,1056.07,0.736,0.144,English Prompt
+llama3.3-70b,fi,355.592,0.982,0.0,English Prompt
+llama3.3-70b,sw,304.572,0.976,0.0,English Prompt
+llama3.1-8b,fi,1176.83,0.412,0.186,Native Prompt
+llama3.1-8b,sw,451.9,0.152,0.032,Native Prompt
+llama3.3-70b,fi,337.09,0.962,0.0,Native Prompt
+llama3.3-70b,sw,321.952,0.9,0.004,Native Prompt
