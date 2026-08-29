@@ -1,0 +1,1 @@
+Non-truncated (n=81514): LR stat=13644.9, df=120, p=0
