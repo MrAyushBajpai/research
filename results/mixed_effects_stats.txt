@@ -1,1 +1,2 @@
-Non-truncated (n=81514): LR stat=13644.9, df=120, p=0
+Primary (n=82500): LR stat=8321.9, df=120, p=0
+Robustness (n=81514): LR stat=13644.9, df=120, p=0
